@@ -1,0 +1,7 @@
+pytest==7.4.0
+selenium==4.10.0
+pytest-html== 3.2.0
+pytest-xdist==3.3.1
+Selenium-Screenshot==2.1.0
+
+
